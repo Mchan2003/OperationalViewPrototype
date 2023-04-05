@@ -1,4 +1,5 @@
 //import camera from '../667.png'
+import './index.css';
 
 function App(props) {
   return (
